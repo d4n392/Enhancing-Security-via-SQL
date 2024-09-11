@@ -4,11 +4,15 @@ In this lab I ensured the organization’s system was more secure. By investigat
 
 ### Skills Learned
 
-
+- Investigating failed login attempts using SQL queries
+- Identifying suspicious activities based on login time, location, and department
+- Filtering and retrieving targeted employee data for security updates
+- Applying SQL operators (AND, OR, BETWEEN, NOT, LIKE, !=) to refine queries
 
 ### Tools Used
 
-
+- SQL filters and operators
+- Employee and login attempt data tables
 
 ## Steps
 
