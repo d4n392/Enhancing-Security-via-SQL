@@ -74,7 +74,7 @@ The first part of the screenshot is my query, and the second part is a portion o
 
 ## Summary
 
-In this lab, I enhanced the organization's system security by applying SQL commands to filter and retrieve targeted data from the __ and _employees_ tables. Using the **WHERE** clause in conjunction with **AND, OR, BETWEEN, NOT, LIKE,** and **!=** operators, I efficiently pinpointed failed login attempts after hours, investigated suspicious activities on specific dates, and filtered login attempts outside of Mexico. Additionally, I isolated employees in the Marketing, Finance, and Sales departments, as well as those not in IT, to ensure their workstations received necessary security updates. These precise SQL queries allowed me to extract critical information, supporting focused security measures across the organization.
+In this lab, I enhanced the organization's system security by applying SQL commands to filter and retrieve targeted data from the _log_in_attempts_ and _employees_ tables. Using the **WHERE** clause in conjunction with **AND, OR, BETWEEN, NOT, LIKE,** and **!=** operators, I efficiently pinpointed failed login attempts after hours, investigated suspicious activities on specific dates, and filtered login attempts outside of Mexico. Additionally, I isolated employees in the Marketing, Finance, and Sales departments, as well as those not in IT, to ensure their workstations received necessary security updates. These precise SQL queries allowed me to extract critical information, supporting focused security measures across the organization.
 
 
 
