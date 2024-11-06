@@ -1,4 +1,4 @@
-# Enhancing-Security-via-SQL
+# Purpose
 
 In this lab I ensured the organization’s system was more secure. By investigating all potential security issues, and updating employee computers as needed. The following steps provide examples of how I used SQL commands and filters to achieve this goal.
 
